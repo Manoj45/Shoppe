@@ -1,3 +1,3 @@
 # Shoppe
 
-It a online shopping website
+It an online shopping website
